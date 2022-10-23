@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string name="splash_welcome">Welcome</string>
+    <string name="email_order">Follow Order: ab_1-Sd@example.com</string>
+    <string name="password_order">Follow Order: * at least 1 digit
+               * at least 1 lower case letter
+               * at least 1 upper case letter
+               * any letter
+               * at least 1 special character
+               * no white spaces
+               * at least 8 characters</string>
+    <string name="login_complete">Congratulation! <br/> You have successfully Logged-in.</string>
+</resources>
