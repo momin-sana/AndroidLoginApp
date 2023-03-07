@@ -14,7 +14,6 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-// This method will be executed once the timer is over
                 Intent iLogin = new Intent(SplashActivity.this, MainActivity.class);
                 startActivity(iLogin);
                 finish();
