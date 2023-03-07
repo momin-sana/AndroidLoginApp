@@ -9,5 +9,7 @@
                * at least 1 special character
                * no white spaces
                * at least 8 characters</string>
-    <string name="login_complete">Congratulation! <br/> You have successfully Logged-in.</string>
+    <string name="login_complete">Congratulation! <br /> You have successfully Logged-in.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
